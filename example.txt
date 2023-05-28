@@ -1,0 +1,3 @@
+This is text about basic language. Basic is the best! Remember that only case sensitive LETTERS could be represented as substrings of the word BASIC. So word "basic" will have count of 0 matched letters and "BASIC" will have 5 count!
+Best regards,
+SIGN ME
